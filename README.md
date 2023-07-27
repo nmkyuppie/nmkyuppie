@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Manikandan Nachimuthu
 - 👩‍💻 I'm working as a Software Engineer
-- 🔨 I have experience in Java, Spring Boot and Microservices components
-- 🌱 I’m currently learning react framework
+- 🔨 I have experience in Java, Spring Boot, Microservices components and React JS Framework.
 - 📫 Reach me @ nmkyuppie@gmail.com
 
 <!---
